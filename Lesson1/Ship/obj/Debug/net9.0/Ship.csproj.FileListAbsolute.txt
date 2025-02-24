@@ -1,0 +1,15 @@
+D:\Git\CourseOOP\Lesson1\Ship\bin\Debug\net9.0\Ship.exe
+D:\Git\CourseOOP\Lesson1\Ship\bin\Debug\net9.0\Ship.deps.json
+D:\Git\CourseOOP\Lesson1\Ship\bin\Debug\net9.0\Ship.runtimeconfig.json
+D:\Git\CourseOOP\Lesson1\Ship\bin\Debug\net9.0\Ship.dll
+D:\Git\CourseOOP\Lesson1\Ship\bin\Debug\net9.0\Ship.pdb
+D:\Git\CourseOOP\Lesson1\Ship\obj\Debug\net9.0\Ship.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\CourseOOP\Lesson1\Ship\obj\Debug\net9.0\Ship.AssemblyInfoInputs.cache
+D:\Git\CourseOOP\Lesson1\Ship\obj\Debug\net9.0\Ship.AssemblyInfo.cs
+D:\Git\CourseOOP\Lesson1\Ship\obj\Debug\net9.0\Ship.csproj.CoreCompileInputs.cache
+D:\Git\CourseOOP\Lesson1\Ship\obj\Debug\net9.0\Ship.sourcelink.json
+D:\Git\CourseOOP\Lesson1\Ship\obj\Debug\net9.0\Ship.dll
+D:\Git\CourseOOP\Lesson1\Ship\obj\Debug\net9.0\refint\Ship.dll
+D:\Git\CourseOOP\Lesson1\Ship\obj\Debug\net9.0\Ship.pdb
+D:\Git\CourseOOP\Lesson1\Ship\obj\Debug\net9.0\Ship.genruntimeconfig.cache
+D:\Git\CourseOOP\Lesson1\Ship\obj\Debug\net9.0\ref\Ship.dll
