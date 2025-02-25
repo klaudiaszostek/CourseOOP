@@ -1,0 +1,15 @@
+D:\Git\CourseOOP\Lesson3\Submarine\bin\Debug\net9.0\Submarine.exe
+D:\Git\CourseOOP\Lesson3\Submarine\bin\Debug\net9.0\Submarine.deps.json
+D:\Git\CourseOOP\Lesson3\Submarine\bin\Debug\net9.0\Submarine.runtimeconfig.json
+D:\Git\CourseOOP\Lesson3\Submarine\bin\Debug\net9.0\Submarine.dll
+D:\Git\CourseOOP\Lesson3\Submarine\bin\Debug\net9.0\Submarine.pdb
+D:\Git\CourseOOP\Lesson3\Submarine\obj\Debug\net9.0\Submarine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\CourseOOP\Lesson3\Submarine\obj\Debug\net9.0\Submarine.AssemblyInfoInputs.cache
+D:\Git\CourseOOP\Lesson3\Submarine\obj\Debug\net9.0\Submarine.AssemblyInfo.cs
+D:\Git\CourseOOP\Lesson3\Submarine\obj\Debug\net9.0\Submarine.csproj.CoreCompileInputs.cache
+D:\Git\CourseOOP\Lesson3\Submarine\obj\Debug\net9.0\Submarine.sourcelink.json
+D:\Git\CourseOOP\Lesson3\Submarine\obj\Debug\net9.0\Submarine.dll
+D:\Git\CourseOOP\Lesson3\Submarine\obj\Debug\net9.0\refint\Submarine.dll
+D:\Git\CourseOOP\Lesson3\Submarine\obj\Debug\net9.0\Submarine.pdb
+D:\Git\CourseOOP\Lesson3\Submarine\obj\Debug\net9.0\Submarine.genruntimeconfig.cache
+D:\Git\CourseOOP\Lesson3\Submarine\obj\Debug\net9.0\ref\Submarine.dll
