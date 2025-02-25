@@ -1,0 +1,15 @@
+D:\Git\CourseOOP\Lesson2\Castle\bin\Debug\net9.0\Castle.exe
+D:\Git\CourseOOP\Lesson2\Castle\bin\Debug\net9.0\Castle.deps.json
+D:\Git\CourseOOP\Lesson2\Castle\bin\Debug\net9.0\Castle.runtimeconfig.json
+D:\Git\CourseOOP\Lesson2\Castle\bin\Debug\net9.0\Castle.dll
+D:\Git\CourseOOP\Lesson2\Castle\bin\Debug\net9.0\Castle.pdb
+D:\Git\CourseOOP\Lesson2\Castle\obj\Debug\net9.0\Castle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\CourseOOP\Lesson2\Castle\obj\Debug\net9.0\Castle.AssemblyInfoInputs.cache
+D:\Git\CourseOOP\Lesson2\Castle\obj\Debug\net9.0\Castle.AssemblyInfo.cs
+D:\Git\CourseOOP\Lesson2\Castle\obj\Debug\net9.0\Castle.csproj.CoreCompileInputs.cache
+D:\Git\CourseOOP\Lesson2\Castle\obj\Debug\net9.0\Castle.sourcelink.json
+D:\Git\CourseOOP\Lesson2\Castle\obj\Debug\net9.0\Castle.dll
+D:\Git\CourseOOP\Lesson2\Castle\obj\Debug\net9.0\refint\Castle.dll
+D:\Git\CourseOOP\Lesson2\Castle\obj\Debug\net9.0\Castle.pdb
+D:\Git\CourseOOP\Lesson2\Castle\obj\Debug\net9.0\Castle.genruntimeconfig.cache
+D:\Git\CourseOOP\Lesson2\Castle\obj\Debug\net9.0\ref\Castle.dll
