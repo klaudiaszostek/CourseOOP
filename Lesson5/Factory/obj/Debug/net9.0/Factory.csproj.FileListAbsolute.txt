@@ -1,0 +1,15 @@
+D:\Git\CourseOOP\Lesson5\Factory\bin\Debug\net9.0\Factory.exe
+D:\Git\CourseOOP\Lesson5\Factory\bin\Debug\net9.0\Factory.deps.json
+D:\Git\CourseOOP\Lesson5\Factory\bin\Debug\net9.0\Factory.runtimeconfig.json
+D:\Git\CourseOOP\Lesson5\Factory\bin\Debug\net9.0\Factory.dll
+D:\Git\CourseOOP\Lesson5\Factory\bin\Debug\net9.0\Factory.pdb
+D:\Git\CourseOOP\Lesson5\Factory\obj\Debug\net9.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\CourseOOP\Lesson5\Factory\obj\Debug\net9.0\Factory.AssemblyInfoInputs.cache
+D:\Git\CourseOOP\Lesson5\Factory\obj\Debug\net9.0\Factory.AssemblyInfo.cs
+D:\Git\CourseOOP\Lesson5\Factory\obj\Debug\net9.0\Factory.csproj.CoreCompileInputs.cache
+D:\Git\CourseOOP\Lesson5\Factory\obj\Debug\net9.0\Factory.sourcelink.json
+D:\Git\CourseOOP\Lesson5\Factory\obj\Debug\net9.0\Factory.dll
+D:\Git\CourseOOP\Lesson5\Factory\obj\Debug\net9.0\refint\Factory.dll
+D:\Git\CourseOOP\Lesson5\Factory\obj\Debug\net9.0\Factory.pdb
+D:\Git\CourseOOP\Lesson5\Factory\obj\Debug\net9.0\Factory.genruntimeconfig.cache
+D:\Git\CourseOOP\Lesson5\Factory\obj\Debug\net9.0\ref\Factory.dll
