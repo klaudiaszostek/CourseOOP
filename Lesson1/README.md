@@ -1,4 +1,4 @@
-# 1
+# 1 Inheritance
 
 The topic of inheritance hierarchy: Pirate Ship
 

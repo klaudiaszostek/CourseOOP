@@ -1,4 +1,4 @@
-# 5
+# 5 Factory Methods and Abstract Factories
 
 The interior design program offers three different styles: classic, modern and Scandinavian. Each of them requires (among other things) an appropriate model of a wardrobe and a desk, and when offering a given model to a customer, price restrictions should also be taken into account. Please write a program containing the following elements:
 - An abstract class Wardrobe, which stores information about its price as an integer and has at least one other feature (e.g. color). Wardrobes should be divided into at least four different types, which should be classes inheriting from Wardrobe and should differ from each other in some way (e.g. additional features or the operation of the constructor).

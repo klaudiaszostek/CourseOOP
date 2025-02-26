@@ -1,4 +1,4 @@
-# 6
+# 6 States and strategies
 
 Prisoner's dilemma is a type of turn-based game in which two players make decisions to cooperate or betray their partner. If both players
 cooperate, both benefit from it, receiving (in our version) +10 points each. If one player is focused on cooperation and the other betrays him, the betrayer wins (+15 points), while the betrayed player receives penalty points (-10 points). 

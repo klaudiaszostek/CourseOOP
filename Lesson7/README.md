@@ -1,4 +1,4 @@
-# 7
+# 7 Composites and decorators
 
 You have: the folder containing the code of the Spaceship class and five classes inheriting from it, representing different types of spaceships. Additionally, the folder also includes an auxiliary class RunBattle equipped with a static Run( ) method, which allows you to play a tournament between ships on a "round robin" basis. 
 Please extend the code of this program with the following elements:

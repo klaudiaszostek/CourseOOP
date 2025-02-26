@@ -1,4 +1,4 @@
-# 3
+# 3 Object-Oriented Programming in Practice
 
 Programmer Marek has received another order to write a program simulating a sea voyage, this time for different types of submarines. He intends to approach the new project in a systematic manner and in accordance with the principles of software design…
 

@@ -1,4 +1,4 @@
-# 2
+# 2 Polymorphism
 
 There are two types of residents in a medieval castle: guardians and civilians, with defenders additionally divided into crossbowmen and pikemen. 
 Please write a program that will contain the following elements:
