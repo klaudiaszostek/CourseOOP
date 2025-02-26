@@ -1,6 +1,6 @@
 # 8 Commands and adapters
 
-Please write a shopping simulator that will retrieve information from the keyboard about the direction in which the user wants to go. It should have in particular:
+Please write a walking simulator that will retrieve information from the keyboard about the direction in which the user wants to go. It should have in particular:
 - An abstract Move class that will have a public Execute(int currentTime) method.
 - Four classes inheriting from the above: MoveNorth, MoveSouth, MoveWest and MoveEast. Each of them should have its own implementation of the Execute method, which will print information on the screen about the direction in which the user is going at a given moment. If the user is moving against the sun (this should be checked based on the time given as currentTime), you should also print information about shielding their eyes or some other reaction.
 - A Simulator class that will provide a Memorize( ) method, allowing to remember the user's instructions. The hints should be retrieved as
