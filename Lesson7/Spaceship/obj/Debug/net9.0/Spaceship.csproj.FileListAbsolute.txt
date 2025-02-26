@@ -1,0 +1,15 @@
+D:\Git\CourseOOP\Lesson7\Spaceship\bin\Debug\net9.0\Spaceship.exe
+D:\Git\CourseOOP\Lesson7\Spaceship\bin\Debug\net9.0\Spaceship.deps.json
+D:\Git\CourseOOP\Lesson7\Spaceship\bin\Debug\net9.0\Spaceship.runtimeconfig.json
+D:\Git\CourseOOP\Lesson7\Spaceship\bin\Debug\net9.0\Spaceship.dll
+D:\Git\CourseOOP\Lesson7\Spaceship\bin\Debug\net9.0\Spaceship.pdb
+D:\Git\CourseOOP\Lesson7\Spaceship\obj\Debug\net9.0\Spaceship.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\CourseOOP\Lesson7\Spaceship\obj\Debug\net9.0\Spaceship.AssemblyInfoInputs.cache
+D:\Git\CourseOOP\Lesson7\Spaceship\obj\Debug\net9.0\Spaceship.AssemblyInfo.cs
+D:\Git\CourseOOP\Lesson7\Spaceship\obj\Debug\net9.0\Spaceship.csproj.CoreCompileInputs.cache
+D:\Git\CourseOOP\Lesson7\Spaceship\obj\Debug\net9.0\Spaceship.sourcelink.json
+D:\Git\CourseOOP\Lesson7\Spaceship\obj\Debug\net9.0\Spaceship.dll
+D:\Git\CourseOOP\Lesson7\Spaceship\obj\Debug\net9.0\refint\Spaceship.dll
+D:\Git\CourseOOP\Lesson7\Spaceship\obj\Debug\net9.0\Spaceship.pdb
+D:\Git\CourseOOP\Lesson7\Spaceship\obj\Debug\net9.0\Spaceship.genruntimeconfig.cache
+D:\Git\CourseOOP\Lesson7\Spaceship\obj\Debug\net9.0\ref\Spaceship.dll
