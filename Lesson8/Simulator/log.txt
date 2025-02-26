@@ -1,0 +1,9 @@
+south direction
+west direction
+north direction
+east direction
+west direction
+south direction
+north direction
+east direction
+south direction

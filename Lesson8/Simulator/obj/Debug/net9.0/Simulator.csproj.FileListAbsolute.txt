@@ -1,0 +1,15 @@
+D:\Git\CourseOOP\Lesson8\Simulator\bin\Debug\net9.0\Simulator.exe
+D:\Git\CourseOOP\Lesson8\Simulator\bin\Debug\net9.0\Simulator.deps.json
+D:\Git\CourseOOP\Lesson8\Simulator\bin\Debug\net9.0\Simulator.runtimeconfig.json
+D:\Git\CourseOOP\Lesson8\Simulator\bin\Debug\net9.0\Simulator.dll
+D:\Git\CourseOOP\Lesson8\Simulator\bin\Debug\net9.0\Simulator.pdb
+D:\Git\CourseOOP\Lesson8\Simulator\obj\Debug\net9.0\Simulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\CourseOOP\Lesson8\Simulator\obj\Debug\net9.0\Simulator.AssemblyInfoInputs.cache
+D:\Git\CourseOOP\Lesson8\Simulator\obj\Debug\net9.0\Simulator.AssemblyInfo.cs
+D:\Git\CourseOOP\Lesson8\Simulator\obj\Debug\net9.0\Simulator.csproj.CoreCompileInputs.cache
+D:\Git\CourseOOP\Lesson8\Simulator\obj\Debug\net9.0\Simulator.sourcelink.json
+D:\Git\CourseOOP\Lesson8\Simulator\obj\Debug\net9.0\Simulator.dll
+D:\Git\CourseOOP\Lesson8\Simulator\obj\Debug\net9.0\refint\Simulator.dll
+D:\Git\CourseOOP\Lesson8\Simulator\obj\Debug\net9.0\Simulator.pdb
+D:\Git\CourseOOP\Lesson8\Simulator\obj\Debug\net9.0\Simulator.genruntimeconfig.cache
+D:\Git\CourseOOP\Lesson8\Simulator\obj\Debug\net9.0\ref\Simulator.dll
