@@ -1,0 +1,15 @@
+D:\Git\CourseOOP\Lesson6\Dilemma\obj\Debug\net9.0\Dilemma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\CourseOOP\Lesson6\Dilemma\obj\Debug\net9.0\Dilemma.AssemblyInfoInputs.cache
+D:\Git\CourseOOP\Lesson6\Dilemma\obj\Debug\net9.0\Dilemma.AssemblyInfo.cs
+D:\Git\CourseOOP\Lesson6\Dilemma\obj\Debug\net9.0\Dilemma.csproj.CoreCompileInputs.cache
+D:\Git\CourseOOP\Lesson6\Dilemma\obj\Debug\net9.0\Dilemma.sourcelink.json
+D:\Git\CourseOOP\Lesson6\Dilemma\bin\Debug\net9.0\Dilemma.exe
+D:\Git\CourseOOP\Lesson6\Dilemma\bin\Debug\net9.0\Dilemma.deps.json
+D:\Git\CourseOOP\Lesson6\Dilemma\bin\Debug\net9.0\Dilemma.runtimeconfig.json
+D:\Git\CourseOOP\Lesson6\Dilemma\bin\Debug\net9.0\Dilemma.dll
+D:\Git\CourseOOP\Lesson6\Dilemma\bin\Debug\net9.0\Dilemma.pdb
+D:\Git\CourseOOP\Lesson6\Dilemma\obj\Debug\net9.0\Dilemma.dll
+D:\Git\CourseOOP\Lesson6\Dilemma\obj\Debug\net9.0\refint\Dilemma.dll
+D:\Git\CourseOOP\Lesson6\Dilemma\obj\Debug\net9.0\Dilemma.pdb
+D:\Git\CourseOOP\Lesson6\Dilemma\obj\Debug\net9.0\Dilemma.genruntimeconfig.cache
+D:\Git\CourseOOP\Lesson6\Dilemma\obj\Debug\net9.0\ref\Dilemma.dll
