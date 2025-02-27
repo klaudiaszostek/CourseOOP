@@ -95,27 +95,30 @@ Initial submarine weight: 211990
 
 Current submarine weight: 211990
 Travel destination accepted [10 km]
-Important data gathered: _FWW08$a
-Important data gathered: )1lRi;be/
+Important data gathered: ?
+T(-vX
+
+Important data gathered: pi
+rW8@*
 Current submarine weight: 211990
-Total trip cost:
+Total trip cost: 11
 
 Current submarine weight: 211990
 Travel destination accepted [250 km]
-Important data gathered: R,`f/|z
-Important data gathered: <O{8R+wi
-
+Important data gathered: q>=59fNWE
+Important data gathered: `1l    WZ-rp
 Current submarine weight: 211990
-Total trip cost: 6
+Total trip cost: 7
 
 Current submarine weight: 211990
 Travel destination accepted [1000 km]
-Important data gathered: NiNd5DK
-Important data gathered: H+.Pd\6
+Important data gathered: 65h+Nb4O ^
+Important data gathered: CN9>7^ftT
 Current submarine weight: 211990
-Total trip cost: 30
+Total trip cost: 24
 
 Current submarine weight: 211990
-Not enough fuel to travel 1000000 km!
-Available fuel: 50
-Required travel time: 1,2 hours
+Not enough supplies to travel 1000000 km!
+Available food: 200
+Available oxygen: 20000
+Required travel time: ,1 hours
